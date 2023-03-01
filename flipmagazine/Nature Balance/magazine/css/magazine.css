@@ -169,12 +169,12 @@ body{
 	border-radius:15px 0 0 15px;
 }
 
-.magazine-viewport .previous-button-hover,
+.magazine-viewport .previous-button,
 .magazine-viewport .next-button-hover{
-	background-color:rgba(0,0,0, 0.2);
+	background-color:rgba(0,0,0, 0.1);
 }
 
-.magazine-viewport .previous-button-hover,
+.magazine-viewport .previous-button,
 .magazine-viewport .previous-button-down{
 	background-image:url(../pics/arrows.png);
 	background-position:-4px 284px;
@@ -183,10 +183,10 @@ body{
 
 .magazine-viewport .previous-button-down,
 .magazine-viewport .next-button-down{
-	background-color:rgba(0,0,0, 0.4);
+	background-color:rgba(0,0,0, 0.1);
 }
 
-.magazine-viewport .next-button-hover,
+.magazine-viewport .next-button,
 .magazine-viewport .next-button-down{
 	background-image:url(../pics/arrows.png);
 	background-position:-38px 284px;
